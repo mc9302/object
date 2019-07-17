@@ -1,6 +1,6 @@
 <template>
-    <div class="content">
-        home
+    <div>
+        搜索
     </div>
 </template>
 
@@ -11,7 +11,5 @@ export default {
 </script>
 
 <style scoped>
-    .content{
-        font-size: 0.08rem;
-    }
+
 </style>
