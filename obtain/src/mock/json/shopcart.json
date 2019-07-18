@@ -1,0 +1,31 @@
+{
+    "shopcat":[
+        {
+            "shoptitle":"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",
+            "shopSummary":"在爱的人生远航中，无论风雨，深情陪伴",
+            "num":3,
+            "price":"2998",
+            "color":"黑色",
+            "checked":true,
+            "shopImgurl":"../../static/images/shop1.png"
+        },
+        {
+            "shoptitle":"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",
+            "shopSummary":"在爱的人生远航中，无论风雨，深情陪伴",
+            "num":3,
+            "price":"2998",
+            "color":"黑色",
+            "checked":true,
+            "shopImgurl":"../../static/images/shop1.png"
+        },
+        {
+            "shoptitle":"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",
+            "shopSummary":"在爱的人生远航中，无论风雨，深情陪伴",
+            "num":3,
+            "price":"2998",
+            "color":"黑色",
+            "checked":true,
+            "shopImgurl":"../../static/images/shop1.png"
+        }
+    ]
+}

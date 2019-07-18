@@ -1,21 +1,29 @@
 <template>
     <div class="content">
-        <div class="item">
-            <span class="iconfont icon-store_icon"></span>
-            <p>商城</p>
-        </div>
-        <div class="item">
-            <span class="iconfont icon-all"></span>
-            <p>全部商品</p>
-        </div>
-        <div class="item">
-            <span class="iconfont icon-gouwuche"></span>
-            <p>购物车</p>
-        </div>
-        <div class="item">
-            <span class="iconfont icon-dingdan"></span>
-            <p>订单</p>
-        </div>
+        <router-link to="/shop">
+            <div class="item">
+                <span class="iconfont icon-store_icon"></span>
+                <p>商城</p>
+            </div>
+        </router-link>
+        <router-link to="/shop">
+            <div class="item">
+                <span class="iconfont icon-all"></span>
+                <p>全部商品</p>
+            </div>
+        </router-link>
+        <router-link to="/shopcart">
+            <div class="item">
+                <span class="iconfont icon-gouwuche"></span>
+                <p>购物车</p>
+            </div>
+        </router-link>
+        <router-link to="/shop">
+            <div class="item">
+                <span class="iconfont icon-dingdan"></span>
+                <p>订单</p>
+            </div>
+        </router-link>
     </div>
 </template>
 
@@ -40,5 +48,8 @@ export default {
     }
     .iconfont{
         font-size: .18rem;
+    }
+    a{
+        color: #333333;
     }
 </style>

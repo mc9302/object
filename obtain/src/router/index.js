@@ -4,6 +4,7 @@ import Home from '../pages/home'
 import Shop from '../pages/shop'
 import ShopSearch from '../pages/shopSearch'
 import CommodityDetails  from '../pages/commodityDetails'
+import ShopCart  from '../pages/shopcart'
 
 Vue.use(Router)
 
@@ -28,6 +29,11 @@ export default new Router({
       path: '/commodityDetails',
       name: 'CommodityDetails',
       component: CommodityDetails
+    },
+    {
+      path: '/shopcart',
+      name: 'ShopCart',
+      component: ShopCart
     },
     {
       path:'/*',
