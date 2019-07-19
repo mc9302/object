@@ -36,7 +36,7 @@
                 </div>
                 <div class="bottomNum">
                     <p class="smallP">数量</p>
-                    <el-input-number v-model="num1" @change="handleChange" :min="1" :max="10" label="描述文字"></el-input-number>
+                    <el-input-number v-model="num1" @change="handleChange" :min="1" label="描述文字"></el-input-number>
                 </div>
                 <div class="bottomTotal">
                     <p>共计：￥ 0</p>
@@ -59,9 +59,7 @@ export default {
       };
     },
     methods: {
-        handleChange(value) {
-            console.log(value);
-        }
+
     },
     props:{
         

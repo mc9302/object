@@ -28,23 +28,6 @@ import SwiperBanner from "../componrnts/banner/swiperBanner"
 export default {
     data() {
         return {
-            arr:[
-                {imgSrc:"../../static/images/shop1.png",goodsTitle:"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",goodsIntro:"在爱的人生远航中，无论风雨，深情陪伴",integer:"2998",bigPrice:"3399",time:"yes"},
-                {imgSrc:"../../static/images/shop1.png",goodsTitle:"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",goodsIntro:"在爱的人生远航中，无论风雨，深情陪伴",integer:"2998",bigPrice:"3399",time:"yes"},
-                {imgSrc:"../../static/images/shop1.png",goodsTitle:"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",goodsIntro:"在爱的人生远航中，无论风雨，深情陪伴",integer:"2998",bigPrice:"3399",time:"yes"},
-                {imgSrc:"../../static/images/shop1.png",goodsTitle:"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",goodsIntro:"在爱的人生远航中，无论风雨，深情陪伴",integer:"2998",bigPrice:"3399",time:"yes"},
-                {imgSrc:"../../static/images/shop1.png",goodsTitle:"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",goodsIntro:"在爱的人生远航中，无论风雨，深情陪伴",integer:"2998",bigPrice:"3399",time:"yes"},
-                {imgSrc:"../../static/images/shop1.png",goodsTitle:"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",goodsIntro:"在爱的人生远航中，无论风雨，深情陪伴",integer:"2998",bigPrice:"3399",time:"yes"},
-                {imgSrc:"../../static/images/shop1.png",goodsTitle:"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",goodsIntro:"在爱的人生远航中，无论风雨，深情陪伴",integer:"2998",bigPrice:"3399",time:"yes"},
-                {imgSrc:"../../static/images/shop1.png",goodsTitle:"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",goodsIntro:"在爱的人生远航中，无论风雨，深情陪伴",integer:"2998",bigPrice:"3399",time:"yes"},
-                {imgSrc:"../../static/images/shop1.png",goodsTitle:"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",goodsIntro:"在爱的人生远航中，无论风雨，深情陪伴",integer:"2998",bigPrice:"3399",time:"yes"},
-                {imgSrc:"../../static/images/shop1.png",goodsTitle:"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",goodsIntro:"在爱的人生远航中，无论风雨，深情陪伴",integer:"2998",bigPrice:"3399",time:"yes"},
-                {imgSrc:"../../static/images/shop1.png",goodsTitle:"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",goodsIntro:"在爱的人生远航中，无论风雨，深情陪伴",integer:"2998",bigPrice:"3399",time:"yes"},
-                {imgSrc:"../../static/images/shop1.png",goodsTitle:"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",goodsIntro:"在爱的人生远航中，无论风雨，深情陪伴",integer:"2998",bigPrice:"3399",time:"yes"},
-                {imgSrc:"../../static/images/shop1.png",goodsTitle:"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",goodsIntro:"在爱的人生远航中，无论风雨，深情陪伴",integer:"2998",bigPrice:"3399",time:"yes"},
-                {imgSrc:"../../static/images/shop1.png",goodsTitle:"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",goodsIntro:"在爱的人生远航中，无论风雨，深情陪伴",integer:"2998",bigPrice:"3399",time:"yes"},
-                {imgSrc:"../../static/images/shop1.png",goodsTitle:"「童心•折纸」系列 18K玫瑰金Akoya珍珠项链",goodsIntro:"在爱的人生远航中，无论风雨，深情陪伴",integer:"2998",bigPrice:"3399",time:"yes"}
-            ],
             newArr:[]
         }
     },

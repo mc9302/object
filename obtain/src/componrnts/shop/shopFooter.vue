@@ -1,5 +1,5 @@
 <template>
-    <div class="content">
+    <div class="footerContent">
         <router-link to="/shop">
             <div class="item">
                 <span class="iconfont icon-store_icon"></span>
@@ -34,7 +34,7 @@ export default {
 </script>
 
 <style scoped>
-    .content{
+    .footerContent{
         width: 100%;
         height: .58rem;
         display: flex;
