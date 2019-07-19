@@ -30,6 +30,7 @@ html,body{
 }
 body{
 	font-family: "微软雅黑";
+  background-color: #f7f7f8;
 }
 ul,ol,li{
 	list-style:none;
@@ -40,5 +41,12 @@ a{
 
 img{
 	display: block;
+}
+.el-carousel__indicators--horizontal{
+        bottom: -10px;
+}
+.el-carousel__button{
+	width: 15px;
+    height: 3px;
 }
 </style>

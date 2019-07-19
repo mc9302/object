@@ -1,1 +1,100 @@
-{}
+{
+    "listenBooks":[
+        {
+            "interface":{
+                "listenUrl":"音频地址",
+                "booksImgurl" :"书图片链接" ,
+                "subtitle":"蔡玉*批判性思维15讲",
+                "booksSummary":"思考的技术就在这里（总结）",
+                "author":"蔡玉（解读者）",
+                "classNum":"16（总共多少讲）",
+                "booksSprice":"39.6",
+                "studyPeoples":"15179（购买人数）",
+                "time":"上架时间",
+                "cost":"是否购买过",
+                 "bookStyle":"新书上架/精选好书/猜你喜欢/限时特价（任意一种）",
+                "subject":"心理学（属于什么学科）",
+                "type":"听书（属于什么类型）",
+                "goodBooks":"是否为好书",
+                "classification":"情绪管理（属于什么信息分类）"
+                },
+            "booksDetails":{
+                "authorImg":"url（作者图片链接）",
+                "teacherIntro":"（解读人）",
+                
+                
+                "courseFeatureIntroI":"批判性思维是现代教育体系普遍推崇的底层思维能力。（听书特点介绍1）",
+                "courseFeatureIntroII":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。（听书特点介绍2）",
+                
+                "nowListening":[
+                    {"listenTitle":"发刊词|学学批判性思维，赶紧的（学习口号）",
+                    "listenPeoples":"33233人学过（学习过人数）"
+                    }
+                ],
+            "listen-what":[
+                "1.幽默是什么",
+                "2.是怎么搞笑的",
+                "3.如何控场",
+                "4.如何在演讲中使用幽默的技巧",
+                "能听到什么"
+            ]
+	  
+          }
+
+      }
+    ],
+    "eBooks":[
+        {
+            "interface":{"books-imgurl" :"书图片链接" ,
+                "subtitle":"蔡玉*批判性思维15讲（书名）",
+                "booksSummary":"思考的技术就在这里（总结）",
+                "author":"蔡玉（作者）",
+                "classNum":"16（总共多少讲）",
+                "booksSprice":"39.6（价格）",
+                "studyPeoples":"15179（购买人数）",
+                "time":"上架时间",
+                "tTs":"不可语音朗读（是否可语音朗读）",
+                "cost":"是否购买过",
+                "classCollege":"能力学院（属于什么学院）可以有多个",
+                "subject":"心理学（属于什么学科）",
+                "type":"电子书（属于什么类型）",
+                "publisher":"北京时代华文书局（出版社）",
+                "bookStyle":"数学",
+                "goodBooks":"是否为好书",
+                "classification":"情绪管理（属于什么信息分类）"
+                },
+            "booksDetails":{
+                "authorImg":"url（作者图片链接）",
+
+                "teacherIntro":"作者简介",
+                "teacherInfo":"蔡玉，得到大学教研长。（作者职位）",
+                "courseFeature":"课程亮点",
+                "courseFeature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。（电子书特点介绍1）",
+                "courseFeature_introII":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。（电子书特点介绍2）",
+                "courseOutline":"电子书大纲",
+                "nowListening":[
+                    {"listenTitle":"发刊词|学学批判性思维，赶紧的（学习口号）",
+                    "listenPeoples":"33233人学过（学习过人数）"
+                    }
+                ],
+            "booksListenCatalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                "03论题：你有没有走题",
+                "04结论 ：你有没有偷换结论",
+                "05论证：你的论证严密吗",
+                "06概念：你怎么定义这件事",
+                "这本书的目录"
+            ],
+            "booksContent":[
+                "各目录里边的具体内容"
+            ],
+            "checkCourseTable":"课程表图片链接",
+            "purchaseAttention":"购买须知"
+          }
+
+      }
+    ]
+
+}
