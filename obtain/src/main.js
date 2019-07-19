@@ -10,6 +10,7 @@ import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 require("./mock")
 
+
 Vue.config.productionTip = false
 Vue.use(ElementUI);
 /* eslint-disable no-new */
