@@ -41,7 +41,7 @@
                 <div class="money">
                     <span v-show="bool">合计：￥{{total}}.00</span>
                 </div>
-                <div v-if="bool" class="goTo">
+                <div @click="order()" v-if="bool" class="goTo">
                     去支付
                 </div>
                 <div @click="del()" v-else class="goTo">
@@ -91,6 +91,9 @@ export default {
                     i = i-1;
                 }
             }
+        },
+        order(){
+            this.$router.push("/order")
         }
     },
     computed: {
