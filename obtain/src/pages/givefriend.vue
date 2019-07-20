@@ -81,7 +81,7 @@ export default {
             this.$router.push("/details")
         },
        add(){
-            this.num+=num++;
+            this.num=num++;
         }
     },
 }
