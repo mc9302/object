@@ -13,10 +13,8 @@ import './assets/iconfont/iconfont.css'
 // mock引入
 require("./mock");
 
-
 Vue.config.productionTip = false
 Vue.use(ElementUI);
-
 /* eslint-disable no-new */
 new Vue({
   store,

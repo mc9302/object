@@ -11,6 +11,8 @@ export default {
 </script>
 
 <style>
+
+@import "assets/icon/iconfont.css";
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -31,6 +33,7 @@ html,body{
 }
 body{
 	font-family: "微软雅黑";
+  background-color: #f7f7f8;
 }
 
 a{
@@ -42,5 +45,12 @@ img{
 }
 span{
 	display: block;
+}
+.el-carousel__indicators--horizontal{
+        bottom: -10px;
+}
+.el-carousel__button{
+	width: 15px;
+    height: 3px;
 }
 </style>
