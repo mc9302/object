@@ -1,0 +1,936 @@
+{
+    "total":[
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"../../static/img/details.jpg",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        },
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        },
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        }
+    ],
+    "nenglixueyuan":[
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"../../static/img/details.jpg",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        },
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        },
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        }
+    ],
+    "shangxueyuan":[
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        },
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        },
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        }
+    ],
+    "kexuexueyuan":[
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        },
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        },
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        }
+    ],
+    "shiyexueyuan":[
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        },
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        },
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        }
+    ],
+    "renwensheke":[
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        },
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        },
+        {
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                " other_imgurl":"../../static/img/nengli.jpg",
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        }
+    ],
+    "zhengzaigengxin":[
+         {   
+                "id":"Zhengzai1",
+                "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                "subtitle":"蔡玉*批判性思维15讲",
+                "books_summary":"思考的技术就在这里",
+                "author":"蔡玉*得到大学教研张",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"刘晗讲辛普森案",
+                "banner_summary":"这堂课，比大片还刺激",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"蔡玉，得到大学教研长。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"批判性思维是现代教育体系普遍推崇的底层思维能力。",
+                "course_feature_intro_II":"从思考自洽，到思考公正，再到思考破局，这样一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        },
+        {   
+            "id":"Zhengzai2",
+            "interface":{"books_imgurl" :"../../static/img/tu.jpg" ,
+                "subtitle":"三国演义",
+                "books_summary":"三国演义三国演义三国演义三国演义",
+                "author":"三国演义",
+                "class_num":"16",
+                "books_sprice":"39.6",
+                "study_peoples":"15179"
+                },
+            "books_details":{
+                "banner_title":"三国演义三国演义",
+                "banner_summary":"三国演义三国演义",
+                "author_img":"url",
+                "teacher_intro":"老师简介",
+                "teacher_info":"三国演义三国演义。",
+                "course_feature":"课程亮点",
+                "course_feature_intro_I":"三国演义三国演义",
+                "course_feature_intro_II":"三国演义三国演义三国演义三国演义一套思考技术，在你终身学习的任何阶段里，都应该先掌握它。",
+                "course_outline":"课程大纲",
+                "now_listening":[
+                    {"listen_title":"发刊词|学学批判性思维，赶紧的",
+                    "listen_progresstime":"10分23秒",
+                    "listen_peoples":"33233人学过",
+                    "start_or_stop_button":"播放"
+                    }
+                ],
+            "books_listen_catalogue":[
+                "发刊词|学学批判性思维,赶紧的",
+                "01 总论：你有多大的思考自由度",
+                "02总论 : 批判性思维在批判什么",
+                    "03论题：你有没有走题",
+                    "04结论 ：你有没有偷换结论",
+                    "05论证：你的论证严密吗",
+                    "06概念：你怎么定义这件事"
+            ],
+            "check_course_table":"imgurl",
+            "purchase_attention":"购买须知",
+            "purchase_attention_item":[
+                "1.《蔡玉*批判性思维15讲》包含老师亲自录制的授课音频、完整讲义文稿、参考图片以及学院问答;",
+                "2.本产品为付费产品，共39.9得到贝，购买成功后，即可永久性使用该产品所有内容;",
+                "3.本产品为虚拟内容服务,一经购买成功,概不退款,请你理解。"
+            ]
+          }
+          
+        }
+    ]
+}

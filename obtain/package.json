@@ -12,9 +12,10 @@
   "dependencies": {
     "axios": "^0.19.0",
     "element-ui": "^2.10.1",
+    "mockjs": "^1.0.1-beta3",
     "vue": "^2.5.2",
     "vue-aplayer": "^1.6.1",
-    "vue-router": "^3.0.1",
+    "vue-router": "^3.0.7",
     "vuex": "^3.1.1"
   },
   "devDependencies": {
@@ -29,7 +30,7 @@
     "babel-preset-stage-2": "^6.22.0",
     "chalk": "^2.0.1",
     "copy-webpack-plugin": "^4.0.1",
-    "css-loader": "^0.28.0",
+    "css-loader": "^0.28.11",
     "extract-text-webpack-plugin": "^3.0.0",
     "file-loader": "^1.1.4",
     "friendly-errors-webpack-plugin": "^1.6.1",
@@ -62,5 +63,7 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "main": ".postcssrc.js",
+  "license": "ISC"
 }
